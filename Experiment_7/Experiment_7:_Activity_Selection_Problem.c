@@ -1,3 +1,6 @@
+// Name: Shashank Kumar
+// Roll Number: 25/DA/056
+
 #include <stdio.h>
 
 typedef struct {
